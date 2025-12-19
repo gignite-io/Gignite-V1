@@ -1,0 +1,5 @@
+{
+  "name": "SaaS Pro Starter Template",
+  "description": "A production-ready SaaS starter with multi-tenancy, authentication, and CRUD operations using Supabase and ShadCN UI. Featuring a monochrome design system with minimal rounded corners.",
+  "requestFramePermissions": []
+}
